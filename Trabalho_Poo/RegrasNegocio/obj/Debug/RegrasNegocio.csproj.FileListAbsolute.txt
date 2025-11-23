@@ -1,0 +1,11 @@
+A:\Diogo\IPCA\2º ano\1º semestre\POO\Camadas\Dados\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.AssemblyReference.cache
+A:\Diogo\IPCA\2º ano\1º semestre\POO\Camadas\Dados\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+A:\Diogo\IPCA\2º ano\1º semestre\POO\Camadas\Dados\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+A:\Diogo\IPCA\2º ano\1º semestre\POO\Camadas\Dados\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+A:\Diogo\IPCA\2º ano\1º semestre\POO\Camadas\Dados\RegrasNegocio\bin\Debug\Dados.dll
+A:\Diogo\IPCA\2º ano\1º semestre\POO\Camadas\Dados\RegrasNegocio\bin\Debug\ObjetosNegocio.dll
+A:\Diogo\IPCA\2º ano\1º semestre\POO\Camadas\Dados\RegrasNegocio\bin\Debug\Dados.pdb
+A:\Diogo\IPCA\2º ano\1º semestre\POO\Camadas\Dados\RegrasNegocio\bin\Debug\ObjetosNegocio.pdb
+A:\Diogo\IPCA\2º ano\1º semestre\POO\Camadas\Dados\RegrasNegocio\obj\Debug\RegrasNe.BCBC36E9.Up2Date
+A:\Diogo\IPCA\2º ano\1º semestre\POO\Camadas\Dados\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+A:\Diogo\IPCA\2º ano\1º semestre\POO\Camadas\Dados\RegrasNegocio\obj\Debug\RegrasNegocio.pdb

@@ -1,0 +1,6 @@
+A:\Diogo\IPCA\2º ano\1º semestre\POO\Camadas\Dados\ObjetosNegocio\bin\Debug\ObjetosNegocio.dll
+A:\Diogo\IPCA\2º ano\1º semestre\POO\Camadas\Dados\ObjetosNegocio\bin\Debug\ObjetosNegocio.pdb
+A:\Diogo\IPCA\2º ano\1º semestre\POO\Camadas\Dados\ObjetosNegocio\obj\Debug\ObjetosNegocio.csproj.AssemblyReference.cache
+A:\Diogo\IPCA\2º ano\1º semestre\POO\Camadas\Dados\ObjetosNegocio\obj\Debug\ObjetosNegocio.csproj.CoreCompileInputs.cache
+A:\Diogo\IPCA\2º ano\1º semestre\POO\Camadas\Dados\ObjetosNegocio\obj\Debug\ObjetosNegocio.dll
+A:\Diogo\IPCA\2º ano\1º semestre\POO\Camadas\Dados\ObjetosNegocio\obj\Debug\ObjetosNegocio.pdb

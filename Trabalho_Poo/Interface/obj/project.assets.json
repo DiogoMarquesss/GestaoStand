@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Dados/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "ObjetosNegocio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Dados.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dados.dll": {}
+        }
+      },
+      "ObjetosNegocio/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ObjetosNegocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ObjetosNegocio.dll": {}
+        }
+      },
+      "RegrasNegocio/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Dados": "1.0.0",
+          "ObjetosNegocio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RegrasNegocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RegrasNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dados/1.0.0": {
+      "type": "project",
+      "path": "../Dados/Dados.csproj",
+      "msbuildProject": "../Dados/Dados.csproj"
+    },
+    "ObjetosNegocio/1.0.0": {
+      "type": "project",
+      "path": "../ObjetosNegocio/ObjetosNegocio.csproj",
+      "msbuildProject": "../ObjetosNegocio/ObjetosNegocio.csproj"
+    },
+    "RegrasNegocio/1.0.0": {
+      "type": "project",
+      "path": "../RegrasNegocio/RegrasNegocio.csproj",
+      "msbuildProject": "../RegrasNegocio/RegrasNegocio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ObjetosNegocio >= 1.0.0",
+      "RegrasNegocio >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Diogo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "A:\\Diogo\\IPCA\\2º ano\\1º semestre\\POO\\Camadas\\Dados\\Interface\\Interface.csproj",
+      "projectName": "Interface",
+      "projectPath": "A:\\Diogo\\IPCA\\2º ano\\1º semestre\\POO\\Camadas\\Dados\\Interface\\Interface.csproj",
+      "packagesPath": "C:\\Users\\Diogo\\.nuget\\packages\\",
+      "outputPath": "A:\\Diogo\\IPCA\\2º ano\\1º semestre\\POO\\Camadas\\Dados\\Interface\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "A:\\Diogo\\IPCA\\2º ano\\1º semestre\\POO\\Camadas\\Dados\\ObjetosNegocio\\ObjetosNegocio.csproj": {
+              "projectPath": "A:\\Diogo\\IPCA\\2º ano\\1º semestre\\POO\\Camadas\\Dados\\ObjetosNegocio\\ObjetosNegocio.csproj"
+            },
+            "A:\\Diogo\\IPCA\\2º ano\\1º semestre\\POO\\Camadas\\Dados\\RegrasNegocio\\RegrasNegocio.csproj": {
+              "projectPath": "A:\\Diogo\\IPCA\\2º ano\\1º semestre\\POO\\Camadas\\Dados\\RegrasNegocio\\RegrasNegocio.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
